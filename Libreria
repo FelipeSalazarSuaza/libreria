@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace libreria
+{
+    public class Class1
+    {
+        /// <summary>
+        /// Método sumar
+        /// </summary>
+        /// <param name="i"></param>
+        /// <param name="j"></param>
+        /// <returns></returns>
+        public static long Suma(long i, long j)
+        {
+            return (i + j);
+        }
+    }
+}
